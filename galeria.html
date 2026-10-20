@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Galeria Pokémon</title>
+    <link rel="stylesheet" href="style.css">
+    <style>
+        .galeria {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(130px, 1fr));
+            gap: 18px;
+            max-width: 850px;
+            margin: 25px auto;
+        }
+        .pokemon {
+            background-color: #f3f8ff;
+            padding: 15px;
+            border-radius: 12px;
+            border: 2px solid #ffcb05;
+        }
+        .pokemon img {
+            width: 120px;
+            max-width: 100%;
+        }
+        .pokemon h3 {
+            color: #2878d0;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>📸 Galeria Pokémon</h1>
+        <p>Conheça alguns Pokémon incríveis!</p>
+    </header>
+    <nav>
+        <a href="index.html">Início</a>
+        <a href="galeria.html">Galeria</a>
+        <a href="contato.html">Contato</a>
+    </nav>
+    <main>
+        <section>
+            <h2>Nossos Pokémon favoritos</h2>
+            <p>
+                Confira alguns Pokémon e seus tipos.
+                Qual deles é o seu favorito?
+            </p>
+            <div class="galeria">
+                <article class="pokemon">
+                    <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/25.png" alt="Pikachu">
+                    <h3>Pikachu</h3>
+                    <p>Tipo: Elétrico ⚡</p>
+                </article>
+                <article class="pokemon">
+                    <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/133.png" alt="Eevee">
+                    <h3>Eevee</h3>
+                    <p>Tipo: Normal 🤎</p>
+                </article>
+                <article class="pokemon">
+                    <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/6.png" alt="Charizard">
+                    <h3>Charizard</h3>
+                    <p>Tipo: Fogo e Voador 🔥</p>
+                </article>
+                <article class="pokemon">
+                    <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/7.png" alt="Squirtle">
+                    <h3>Squirtle</h3>
+                    <p>Tipo: Água 💧</p>
+                </article>
+                <article class="pokemon">
+                    <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/25.png" alt="Pikachu novamente">
+                    <h3>Meu favorito</h3>
+                    <p>Um clássico Pokémon!</p>
+                </article>
+                <article class="pokemon">
+                    <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/384.png" alt="Rayquaza">
+                    <h3>Rayquaza</h3>
+                    <p>Tipo: Dragão e Voador 🐉</p>
+                </article>
+            </div>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2026 - Universo Pokémon</p>
+        <p>Projeto desenvolvido por uma estudante de Informática 💻</p>
+    </footer>
+</body>
+</html>

@@ -1,16 +1,14 @@
-🔴⚪ Bem-vindos ao meu mundo Pokémon!
+✦ Oi, treinador! Seja bem-vindo! ⚡
 
-⚡ Um cantinho dedicado ao universo Pokémon.
+🎮 Explorando o mundo Pokémon, uma aventura de cada vez.
 
-🎮 Jogos • Personagens • Aventuras • Nostalgia
+💙 Meus favoritos
 
-🌟 Meu universo Pokémon
-
-*⚡ Pikachu
-* 🔥 Charmander
-* 💧 Squirtle
-* 🌿 Bulbasaur
+* ⚡ Pikachu
 * 💙 Pachirisu
 * 🐉 Rayquaza
 
-♡ Que comece a jornada Pokémon!
+✧ Um pouco sobre este perfil
+
+Um espaço feito para compartilhar meu amor por Pokémon, jogos e aventuras incríveis!
+

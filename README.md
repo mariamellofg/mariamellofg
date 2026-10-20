@@ -1,16 +1,16 @@
-## Hi there 👋
+🔴⚪ Bem-vindos ao meu mundo Pokémon!
 
-<!--
-**mariamellofg/mariamellofg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+⚡ Um cantinho dedicado ao universo Pokémon.
 
-Here are some ideas to get you started:
+🎮 Jogos • Personagens • Aventuras • Nostalgia
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌟 Meu universo Pokémon
+
+*⚡ Pikachu
+* 🔥 Charmander
+* 💧 Squirtle
+* 🌿 Bulbasaur
+* 💙 Pachirisu
+* 🐉 Rayquaza
+
+♡ Que comece a jornada Pokémon!

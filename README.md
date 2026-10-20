@@ -2,7 +2,8 @@
 
 🎮 Explorando o mundo Pokémon, uma aventura de cada vez.
 
-💙 Meus favoritos
+
+⭐️Meus favoritos
 
 * ⚡ Pikachu
 * 💙 Pachirisu

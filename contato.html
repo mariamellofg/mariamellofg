@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contato Pokémon</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>💌 Contato Pokémon</h1>
+        <p>Entre em contato com nosso universo!</p>
+    </header>
+    <nav>
+        <a href="index.html">Início</a>
+        <a href="galeria.html">Galeria</a>
+        <a href="contato.html">Contato</a>
+    </nav>
+    <main>
+        <section>
+            <h2>Fale conosco!</h2>
+            <p>
+                Tem um Pokémon favorito ou uma sugestão para o site?
+                Envie sua mensagem!
+            </p>
+            <form action="#" method="get">
+                <label for="nome">Seu nome:</label>
+                <input
+                    type="text"
+                    id="nome"
+                    name="nome"
+                    placeholder="Digite seu nome"
+                    required
+                >
+                <label for="email">Seu e-mail:</label>
+                <input
+                    type="email"
+                    id="email"
+                    name="email"
+                    placeholder="Digite seu e-mail"
+                    required
+                >
+                <label for="pokemon">Pokémon favorito:</label>
+                <select id="pokemon" name="pokemon" required>
+                    <option value="">Escolha um Pokémon</option>
+                    <option value="Pikachu">Pikachu</option>
+                    <option value="Pachirisu">Pachirisu</option>
+                    <option value="Rayquaza">Rayquaza</option>
+                    <option value="Eevee">Eevee</option>
+                    <option value="Outro">Outro</option>
+                </select>
+                <label for="mensagem">Sua mensagem:</label>
+                <textarea
+                    id="mensagem"
+                    name="mensagem"
+                    rows="5"
+                    placeholder="Escreva sua mensagem aqui..."
+                    required
+                ></textarea>
+                <button type="submit">Enviar mensagem ⚡</button>
+            </form>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2026 - Universo Pokémon</p>
+        <p>Projeto desenvolvido por uma estudante de Informática 💻</p>
+    </footer>
+</body>
+</html>

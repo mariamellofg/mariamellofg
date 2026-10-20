@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Galeria Pokémon</title>
+
+    <style>
+        body {
+            background-color: #eaf4ff;
+            font-family: Arial, sans-serif;
+            text-align: center;
+            color: #23395d;
+            margin: 0;
+        }
+
+        header {
+            background-color: #2878d0;
+            color: white;
+            padding: 20px;
+        }
+
+        nav {
+            background-color: #ffcb05;
+            padding: 15px;
+        }
+
+        a {
+            color: #23395d;
+            margin: 10px;
+            font-weight: bold;
+        }
+
+        .galeria {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            gap: 20px;
+            padding: 20px;
+        }
+
+        .pokemon {
+            background: white;
+            border-radius: 15px;
+            padding: 15px;
+            width: 220px;
+        }
+
+        img {
+            width: 150px;
+            max-width: 100%;
+        }
+    </style>
+</head>
+
+<body>
+
+    <header>
+        <h1>🌟 Galeria Pokémon 🌟</h1>
+        <p>Conheça alguns Pokémon incríveis!</p>
+    </header>
+
+    <nav>
+        <a href="index.html">Início</a>
+        <a href="galeria.html">Galeria</a>
+        <a href="contato.html">Contato</a>
+    </nav>
+
+    <div class="galeria">
+
+        <div class="pokemon">
+            <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/25.png" alt="Pikachu">
+            <h2>Pikachu</h2>
+            <p>Pokémon do tipo elétrico.</p>
+        </div>
+
+        <div class="pokemon">
+            <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/417.png" alt="Pachirisu">
+            <h2>Pachirisu</h2>
+            <p>Um Pokémon elétrico muito fofo.</p>
+        </div>
+
+        <div class="pokemon">
+            <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/384.png" alt="Rayquaza">
+            <h2>Rayquaza</h2>
+            <p>Um Pokémon lendário.</p>
+        </div>
+
+        <div class="pokemon">
+            <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1.png" alt="Bulbasaur">
+            <h2>Bulbasaur</h2>
+            <p>Um Pokémon dos tipos grama e veneno.</p>
+        </div>
+
+    </div>
+
+</body>
+</html>

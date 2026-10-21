@@ -47,10 +47,12 @@ section {
 }
 section h2 {
     color: #2878d0;
-}
-img {
-    max-width: 100%;
-    height: auto;
+
+<img
+    src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/417.png"
+    alt="Pachirisu, o Pokémon elétrico"
+    style="width: 200px;"
+>
 }
 ul, ol {
     display: inline-block;

@@ -1,15 +1,25 @@
-✦ Oi, treinador! Seja bem-vindo! ⚡
+🩵 Oii, seja bem-vindo(a) ao meu perfil!
 
-🎮 Explorando o mundo Pokémon, uma aventura de cada vez.
+୨୧ Olá! Que bom ter você por aqui! 🫧
+
+Sou uma pessoa que gosta de explorar novas ideias, aprender coisas diferentes e transformar a criatividade em projetos.
+
+🦋 Sobre mim
+
+* 💻 Aprendendo e evoluindo na programação
+* 🩵 Interessada em tecnologia e criatividade
+* 🌷 Sempre buscando aprender algo novo
+* ✨ Construindo meu próprio caminho, um passo de cada vez
+
+💻 Tecnologias e aprendizado
+
+Estou explorando o mundo do desenvolvimento e ampliando meus conhecimentos aos poucos.
 
 
-⭐️Meus favoritos
+🫧 Por aqui você encontra
 
-* ⚡ Pikachu
-* 💙 Pachirisu
-* 🐉 Rayquaza
+Projetos, experiências, ideias criativas e um pouquinho da minha evolução na programação.
 
-✧ Um pouco sobre este perfil
+୨୧ Obrigada por visitar meu perfil! 🩵
 
-Um espaço feito para compartilhar meu amor por Pokémon, jogos e aventuras incríveis!
-
+Continue explorando, aprendendo e criando coisas incríveis. 🦋
